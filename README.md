@@ -1,7 +1,7 @@
 # cocosCreator-typeScript-demo-qrcode
 cocosCreator项目：生成二维码组件的使用/ 使用typecript语言
 
-[在线demo](./build/web-mobile/index.html)
+[在线demo](https://nimohe.github.io/cocosCreator-typeScript-demo-qrcode/build/web-mobile/index.html)
 
 ## 说明
 ### 本Demo使用的js组件来自这里：
