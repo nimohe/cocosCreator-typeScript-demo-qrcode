@@ -1,24 +1,3 @@
-# cocosCreator-typeScript-demo-qrcode
-cocosCreator项目：生成二维码组件的使用/ 使用typecript语言
-
-[在线demo](./build/web-mobile/index.html)
-
-## 说明
-### 本Demo使用的js组件来自这里：
-[CQRCode.js](https://github.com/ShawnZhang2015/CreatorPrimer/blob/master/assets/scripts/components/CQRCode.js)
-
-![comp](./md-assets/comp.png)
-
-![project](./md-assets/project.png)
-
-### 项目说明
-项目自身利用组件生成二维码。
-- cocosCreator版本：2.2.0
-- 使用语言：typeScript
-
-## Demo主要代码
-HelloWorld.ts
-```ts
 const {ccclass, property} = cc._decorator;
 
 @ccclass
@@ -69,5 +48,3 @@ export default class Helloworld extends cc.Component {
         this.changeQRCodeUI(data);
     }
 }
-
-```
